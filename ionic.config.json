@@ -1,5 +1,7 @@
 {
   "name": "iab-test",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
